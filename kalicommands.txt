@@ -1,0 +1,46 @@
+1. kali@kali:~$ whoami
+kali
+
+
+2. kali@kali:~$ mkdir lab2
+
+
+3. kali@kali:~$ cd lab2
+kali@kali:~/lab2$ 
+
+
+4. kali@kali:~/lab2$ ls
+kali@kali:~/lab2$             // blank directory
+
+
+5. kali@kali:~/lab2$ cal -m August > august.txt 
+
+
+6. kali@kali:~/lab2$ ls
+august.txt                   // one file
+
+
+7. kali@kali:~/lab2$ cat august.txt
+    August 2020       
+Su Mo Tu We Th Fr Sa  
+                   1  
+ 2  3  4  5  6  7  8  
+ 9 10 11 12 13 14 15  
+16 17 18 19 20 21 22  
+23 24 25 26 27 28 29  
+30 31  
+
+
+8. kali@kali:~/lab2$ rm august.txt
+kali@kali:~/lab2$ ls
+kali@kali:~/lab2$           // no files; blank directory
+
+
+9. kali@kali:~/lab2$ ncal -e
+04/12/2020
+
+
+10. kali@kali:~/lab2$ date
+Thu 27 Aug 2020 11:32:35 PM EDT
+
+

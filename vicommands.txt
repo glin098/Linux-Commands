@@ -1,0 +1,11 @@
+1. k	// cursor up one line
+2. 3G	// jump cursor to line 3
+3. l	// move cursor right one character
+4. yy	// copy
+5. p	// paste
+6. go to the tenth line from the bottom then: 10yy p 	// duplicate the next ten lines
+7. /string	// find instance of a word
+8. dd		// delete current line
+9. u		// undo
+10. :w		// save no exit
+11. :q!		// exit no save
